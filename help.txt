@@ -1,0 +1,6 @@
+To compile the programm ->
+javac Server/*.java Connection/*.java Client/*.java
+
+To run the server and client ->
+java Server.Server
+java Client.Client
